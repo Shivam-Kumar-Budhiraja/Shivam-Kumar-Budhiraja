@@ -20,7 +20,7 @@ Focuses on learning through hands-on projects, structured problem-solving, and c
   </a>
   <a href="mailto:shivamkumarbudhiraja@gmail.com">
     <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
          alt="Gmail"
          height="30"
          width="40" />
