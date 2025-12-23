@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar Budhiraja</h1>
+<h1 align="center">Hi 👋, I'm Shivam Budhiraja</h1>
 <h3 align="center">Interested in building practical software solutions and understanding how systems work. Focuses on learning through hands-on projects, structured problem-solving, and continuous improvement.</h3>
 
 - 🌱 I’m currently learning **ML, WebDev etc.**
