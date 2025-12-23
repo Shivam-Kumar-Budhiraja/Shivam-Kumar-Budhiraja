@@ -16,14 +16,7 @@ Focuses on learning through hands-on projects, structured problem-solving, and c
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn"
          height="30"
-         width="40" />
-  </a>
-  <a href="mailto:shivamkumarbudhiraja@gmail.com">
-    <img align="center"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-         alt="Gmail"
-         height="30"
-         width="40" />
+         width="40" />LinkedIn
   </a>
 </p>
 
