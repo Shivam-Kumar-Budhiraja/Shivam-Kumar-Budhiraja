@@ -1,1 +1,1 @@
-<p align="center"> <img src="./resume-preview.png" alt="Resume preview" width="250" /> </p><p align="center"> <a href="./Shivam_Resume.pdf"> <b> << View Full Resume >> </b> </a> </p>
+<p align="center"> <b> << Click the pic for full view >> </b> <img src="./resume-preview.png" alt="Resume preview" width="250" /> </p><p align="center"> <a href="https://github.com/Shivam-Kumar-Budhiraja/Shivam-Kumar-Budhiraja/raw/main/Shivam_Resume.pdf"> <b> << Download PDF >> </b> </a> </p>
