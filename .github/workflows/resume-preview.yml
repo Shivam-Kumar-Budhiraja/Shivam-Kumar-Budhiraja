@@ -1,0 +1,30 @@
+name: Update resume preview
+
+on:
+  push:
+    paths:
+      - "Shivam_Resume.pdf"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install poppler
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
+      - name: Render first page to PNG
+        run: pdftoppm -png -r 110 -f 1 -l 1 -singlefile Shivam_Resume.pdf resume-preview
+
+      - name: Commit preview
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add resume-preview.png
+          git diff --cached --quiet || git commit -m "Update resume preview"
+          git push
