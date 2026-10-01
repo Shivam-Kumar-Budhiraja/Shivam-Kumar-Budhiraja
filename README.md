@@ -1,1 +1,1 @@
-<p align="center"> <a href="./Shivam_Resume.pdf"> <img src="./resume-preview.png" alt="Resume preview" width="700" /> </a> </p> <p align="center"> <a href="./Shivam_Resume.pdf"><b>📄 Open full PDF</b></a> </p>
+<p align="center"> <a href="./Shivam_Resume.pdf"> <img src="./resume-preview.png" alt="Resume preview" width="450" /> </a> </p> <p align="center"> <a href="./Shivam_Resume.pdf"><b>📄 Open full PDF</b></a> </p>
