@@ -1,58 +1,65 @@
-<h1 align="center">Hi 👋, I'm Shivam Budhiraja</h1>
-<h3 align="center">
-Interested in building practical software solutions and understanding how systems work.
-Focuses on learning through hands-on projects, structured problem-solving, and continuous improvement.
-</h3>
+<h1 align="center">Hi, I'm Shivam 👋</h1>
 
-- 🌱 I’m currently learning **ML, WebDev, etc.**
-- 👯 I’m looking to collaborate on **Open-source or academic software projects**
-- 🤝 I’m looking for help with **Improving project design and documentation**
-- 📫 How to reach me **shivamkumarbudhiraja@gmail.com**
+<p align="center">
+  Computer Applications &amp; Economics graduate · Voice agent intern · Building <b>Robuzt</b> (gaming brand &amp; YouTube)
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shivambudhiraja" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         height="30"
-         width="40" />
+<p align="center">
+  <a href="./Shivam_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄_View_Resume-PDF-2ea44f?style=for-the-badge" alt="View Resume" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/Shivam_Resume.pdf">
+    <img src="https://img.shields.io/badge/⬇️_Download-Latest_Version-0969da?style=for-the-badge" alt="Download Resume" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+---
+
+## 📄 Resume
+
+> Click the preview to open the full PDF.
+
+<p align="center">
+  <a href="./Shivam_Resume.pdf">
+    <img src="./resume-preview.png" alt="Resume preview" width="600" />
   </a>
 </p>
+
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+**Spam Detector** — Flask web app that classifies SMS messages using TF-IDF + Multinomial Naive Bayes, reaching **96.7% test accuracy** on 5,500+ messages.
+
+---
+
+## 🎓 Education & Certifications
+
+- B.A. Program (Computer Applications + Economics), University of Delhi (PGDAV College) · 2023 – 2026
+- JPMorgan Chase Software Engineering Job Simulation
+- Google Cloud Generative AI Studio
+- Microsoft Prompt Engineering with GitHub Copilot
+
+---
+
+## 📫 Connect
+
+<!-- Replace the placeholders below, or delete the lines you don't need -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![YouTube](https://img.shields.io/badge/YouTube-Robuzt-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
